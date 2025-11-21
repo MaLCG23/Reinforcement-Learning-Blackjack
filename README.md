@@ -1,1 +1,1 @@
-For more info, go to (./Information.pdf)
+For more info, go to [Vew More](./Information.pdf)
